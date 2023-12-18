@@ -1,4 +1,4 @@
-# Taller de evaluación: seminario-ISE-2023-A2
+# Taller de evaluación: seminario-ISE-2023-B1
 
 En esta última clase de Ingeniería de Servidores se plantea un taller práctico que tiene como objetivo movilizar las competencias adquiridas durante el curso. En particular, el ejercicio consiste en escribir una carta de motivación donde nos postularemos como candidatos para una de las tres ofertas de trabajo enunciadas a continuación. El ejercicio consta de dos partes:
 
@@ -9,14 +9,14 @@ En esta última clase de Ingeniería de Servidores se plantea un taller práctic
 
 ## 1. Ofertas de trabajo
 ---
-1. **Ingeniero de Sistemas Senior - Administración y Optimización de Infraestructuras**
+1. **Ingeniero de Sistemas Junior - Administración y Optimización de Infraestructuras**
 
 - **Empresa:** TechSolutions Innovations
 - **Ubicación:** Ciudad Metrópolis
 - **Salario:** $80,000 - $90,000 al año
 - **Referencia:** TSIS-ADM2023
 
-Buscamos un Ingeniero de Sistemas Senior para liderar la administración de sistemas en TechSolutions Innovations. Requerimos más de 5 años de experiencia, sólidos conocimientos en virtualización y certificaciones relevantes (RHCE, MCSA). Tu papel será diseñar, implementar y optimizar infraestructuras informáticas complejas.
+Buscamos un Ingeniero de Sistemas Junior para unirse al equipo de administración de sistemas en TechSolutions Innovations. No se requiere experiencia previa pero si motivación y sólidos conocimientos en virtualización y certificaciones relevantes. Tu papel será diseñar, implementar y optimizar infraestructuras informáticas.
 
 ---
 
@@ -83,4 +83,4 @@ Cada propuesta será evaluada por tres compañeros. A su vez, usted evaluará tr
 
 ## 3. Evaluación de cartas de motivación
 
-Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/1-GG6GX8Msw83h-P--uxiYHaxf1hkTfBrexx4qCrBUaM/edit?usp=sharing)
+Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/15kN9dRVdWs4Y2zVaqjeEW1LO0NQX3IH4dlF4KrP6quc/edit?usp=sharing)
