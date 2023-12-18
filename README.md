@@ -83,4 +83,4 @@ Cada propuesta será evaluada por tres compañeros. A su vez, usted evaluará tr
 
 ## 3. Evaluación de cartas de motivación
 
-Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/15kN9dRVdWs4Y2zVaqjeEW1LO0NQX3IH4dlF4KrP6quc/edit?usp=sharing)
+Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/1-GG6GX8Msw83h-P--uxiYHaxf1hkTfBrexx4qCrBUaM/edit?usp=sharing)
